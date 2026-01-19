@@ -4,7 +4,7 @@ local LOADER_CODE = ""
 local SCRIPT_URLS = {
     ["NiggaHook"] = "https://github.com/farintr6-arch/bsdfgpindwskjfnwelfwkjdbfw/raw/refs/heads/main/ilyawarerecode.lua"
 }
-local DISCORD_WEBHOOK = "shttps://discord.com/api/webhooks/1456684551278559454/03QW0Rlhr7FmC9P2GhI2yKSIbdcy9RuRFot8s3uUNLoioqPUF5vE8wuQk2WqK_RTzlsL"
+local DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1456684551278559454/03QW0Rlhr7FmC9P2GhI2yKSIbdcy9RuRFot8s3uUNLoioqPUF5vE8wuQk2WqK_RTzlsL"
 local SNOW_COUNT = 120
 local SNOW_PARTICLES = {}
 
